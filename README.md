@@ -1,2 +1,1 @@
-# Python-OpenCV-Tutorial
-Python-OpenCV-Tutorial
+# Cheating-Sheet
